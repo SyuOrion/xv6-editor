@@ -38,7 +38,7 @@ How to install xv6?
   git clone git://github.com/mit-pdos/xv6-public.git
   ```
 #### 4. Rollback to rev7 version.
-Rev7 version is more stable and reliable.
+  __tips: rev7 version is more stable and reliable.__
   ```C
   cd xv6-public-master
   ```
