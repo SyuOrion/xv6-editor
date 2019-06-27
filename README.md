@@ -53,7 +53,7 @@ Rev7 version is more stable and reliable.
   make
   ```
 #### 7. If you see the following image, Congratulations! you have successfully compiled it.
-  ![successfully compiled info]()
+  ![successfully compiled info](https://github.com/TangMoon/xv6-editor/raw/master/demo/compile_successfully.PNG "compile successfully")
 #### 8. Now you can open _xv6_ and enjoy it.
   ```C
   make qemu-nox
