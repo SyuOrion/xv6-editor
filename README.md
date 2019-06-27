@@ -58,3 +58,4 @@ Rev7 version is more stable and reliable.
   ```C
   make qemu-nox
   ```
+  ![Running](https://github.com/TangMoon/xv6-editor/raw/master/demo/running.PNG "Running")
