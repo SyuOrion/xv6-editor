@@ -1,5 +1,5 @@
 # xv6-editor
-___NOTICE: My xv6 is ran in QEMU simulator.___
+___NOTICE: My xv6 runs in QEMU simulator.___
 
 The folder _**xv6_all_files**_ contains all the original code and all the executable file of xv6-rev7(release version 7) system.
 
@@ -22,6 +22,7 @@ How to install xv6?
 ====
 ### _Execute the following instructions sequently._
 #### 1. Install the gdb and gcc.
+
   ```C
   sudo apt-get install -y build-essential gdb 
   ```
