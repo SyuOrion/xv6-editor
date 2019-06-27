@@ -11,7 +11,7 @@ The simple editor can simply highlight the _C_ language. Its effect is demostrat
 
 This editor can mostly undo 20 steps sequently. It depends on the variable _**MAX_ROLLBACK_STEP**_. If you want more undo step, just extend this variable. There is a small bug with _undo delete command_. Unfortunately, it still has not been resolved though I have paid a lot of time on it. I suspect that I triggered a unfound system bug. Who knows? But don't worry about that. This small bug just limit our ability to undo the delete operation and I have forbidden this function. The other function wouldn't be affected. So you can use this editor safely. I have mark the code which with bug in the _editor.c_. 
 
-Furthermore, press __help__ instruction for more oprating detail. All the operations are here.
+Furthermore, press __help__ instruction for more operating detail. All the operations are here.
 
 ![help info](https://github.com/TangMoon/xv6-editor/raw/master/demo/demo_help.PNG "help info")
 
