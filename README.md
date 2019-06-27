@@ -6,3 +6,6 @@ The folder _xv6_all_files_ contains all the original code and all the executable
 _editor.c_ file contains the main code of my simple editor.
 
 The simple editor can simply highlight the _C_ language. Its effect is demostrated below.
+
+![code highlighting](/demo/demo_highlight.PNG "code highlight")
+
