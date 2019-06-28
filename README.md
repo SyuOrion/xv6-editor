@@ -60,3 +60,34 @@ How to install xv6?
   make qemu-nox
   ```
   ![Running](https://github.com/TangMoon/xv6-editor/raw/master/demo/running.PNG "Running")
+  
+<br>
+
+# There is still a problem existing. How to compile xv6 with your own _C file_? 
+We should know the fact that how ___make___ instruction compiles xv6 system is depending on ___Makefile___. So we should add something properly to ___Makefile___ file.
+
+1. Open ___Makefile___ file.
+
+2. Find out the following two parts of code and add the content which circled with red box.
+
+![revise_Makefile_1]()
+
+![revise_Makefile_2]()
+
+3. Then save ___Makefile___ and compile xv6 again. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
