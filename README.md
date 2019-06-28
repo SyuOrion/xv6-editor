@@ -70,9 +70,9 @@ We should know the fact that how ___make___ instruction compiles xv6 system is d
 
 2. Find out the following two parts of code and add the content which circled with red box.
 
-![revise_Makefile_1]()
+    ![revise_Makefile_1](https://github.com/TangMoon/xv6-editor/raw/master/demo/revise_Makefile_1.png "revise Makefile(1)")
 
-![revise_Makefile_2]()
+    ![revise_Makefile_2](https://github.com/TangMoon/xv6-editor/raw/master/demo/revise_Makefile_2.png "revise Makefile(2)")
 
 3. Then save ___Makefile___ and compile xv6 again. 
 
